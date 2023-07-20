@@ -28,11 +28,11 @@ $ git clone https://github.com/hamzakhan663/Crosswords_Puzzle.git
 $ cd Crosswords_Puzzle
 
 
-2. Compile the Java source files: $ javac CrossWordsPuzzle.java
+2. Compile the Java source files: $ javac CrossWordPuzzle.jar
 
 
 3. Run the application:
-$ java Crosswords_Puzzle
+$ java CrossWordPuzzle
 
 
 ## Usage
