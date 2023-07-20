@@ -52,6 +52,4 @@ Contributions to the "Cross Words Puzzle" project are welcome! If you have any s
 
 This project is licensed under the [MIT License](LICENSE).
 =======
-# crosswords_puzzle
-This is a Java Swing-based crossword puzzle solver for fun and interactive puzzle-solving.
 
