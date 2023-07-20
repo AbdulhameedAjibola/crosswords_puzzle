@@ -28,11 +28,11 @@ $ git clone https://github.com/hamzakhan663/Crosswords_Puzzle.git
 $ cd Crosswords_Puzzle
 
 
-2. Compile the Java source files: $ javac CrossWordsPuzzle.java
+2. Compile the Java source files: $ javac CrossWordPuzzle.jar
 
 
 3. Run the application:
-$ java Crosswords_Puzzle
+$ java CrossWordPuzzle
 
 
 ## Usage
@@ -52,6 +52,4 @@ Contributions to the "Cross Words Puzzle" project are welcome! If you have any s
 
 This project is licensed under the [MIT License](LICENSE).
 =======
-# crosswords_puzzle
-This is a Java Swing-based crossword puzzle solver for fun and interactive puzzle-solving.
 
